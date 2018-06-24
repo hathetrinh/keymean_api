@@ -1,0 +1,11 @@
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\bin\Release\netcoreapp2.0\EnglishCenterAPI.deps.json
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\bin\Release\netcoreapp2.0\EnglishCenterAPI.runtimeconfig.json
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\bin\Release\netcoreapp2.0\EnglishCenterAPI.runtimeconfig.dev.json
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\bin\Release\netcoreapp2.0\EnglishCenterAPI.dll
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\bin\Release\netcoreapp2.0\EnglishCenterAPI.pdb
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\obj\Release\netcoreapp2.0\EnglishCenterAPI.csproj.CoreCompileInputs.cache
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\obj\Release\netcoreapp2.0\EnglishCenterAPI.AssemblyInfoInputs.cache
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\obj\Release\netcoreapp2.0\EnglishCenterAPI.AssemblyInfo.cs
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\obj\Release\netcoreapp2.0\EnglishCenterAPI.dll
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\obj\Release\netcoreapp2.0\EnglishCenterAPI.pdb
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\obj\Release\netcoreapp2.0\EnglishCenterAPI.csprojResolveAssemblyReference.cache

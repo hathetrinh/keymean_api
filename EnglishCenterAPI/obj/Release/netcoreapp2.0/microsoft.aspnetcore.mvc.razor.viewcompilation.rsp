@@ -1,0 +1,12 @@
+C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=EnglishCenterAPI
+--content-root=C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI
+--file=C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\Views\Home\About.cshtml
+--file=C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\Views\Home\Contact.cshtml
+--file=C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\Views\Home\Index.cshtml
+--file=C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\Views\Shared\Error.cshtml
+--file=C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\Views\Shared\_Layout.cshtml
+--file=C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\Views\_ViewImports.cshtml
+--file=C:\Users\nvthinh09t4\Source\Repos\EnglishCenterAPI\EnglishCenterAPI\Views\_ViewStart.cshtml
